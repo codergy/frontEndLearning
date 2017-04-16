@@ -1,5 +1,7 @@
 # frontEndLearning
 
-JavaScript:
-https://github.com/getify/You-Dont-Know-JS
-http://eloquentjavascript.net/
+**JavaScript:**
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScriprt](http://eloquentjavascript.net/)
+
