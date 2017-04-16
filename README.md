@@ -1,6 +1,15 @@
 # frontEndLearning
 
-**JavaScript:**
+**P R O G R A M M I N G**
+
+**HTML:**
+
+**CSS:**
+
+**JQUERY:**
+
+
+**JAVASCRIPT:**
 
 **1. Books**
   * Free Books
@@ -12,6 +21,7 @@
     - JavaScript: The Good Parts
     - JavaScript: The Definitive Guide
 
+**Free resources**
 
 **Youtube Channels**
 - DevTips: [HTML, CSS, responsive design](https://www.youtube.com/user/DevTipsForDesigners)
@@ -22,3 +32,13 @@
 - freeCodeCamp: [JavaScript, Git, ](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - PHPAcademy: [PHP](https://www.youtube.com/user/phpacademy)
 - LevelUpTuts: [Meteor, React, Wordpress](https://www.youtube.com/user/LevelUpTuts/playlists)
+
+
+**F R E E L A N C I N G**
+
+http://www.bradhussey.ca/
+https://harpoonapp.com/blog/category/freelancing
+https://doubleyourfreelancing.com/
+
+
+**P R O D U C T I V I T Y, H A B I T S and F O C U S**
