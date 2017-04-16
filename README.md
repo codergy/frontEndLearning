@@ -1,6 +1,6 @@
 # frontEndLearning
 
-**P R O G R A M M I N G**
+# P R O G R A M M I N G
 
 **HTML:**
 
@@ -21,9 +21,9 @@
     - JavaScript: The Good Parts
     - JavaScript: The Definitive Guide
 
-**Free resources**
+** Free resources **
 
-**Youtube Channels**
+** Youtube Channels **
 - DevTips: [HTML, CSS, responsive design](https://www.youtube.com/user/DevTipsForDesigners)
 - LearnWebCode: [HTML, CSS, JS, jQuery, responsive design](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - The Coding Train: [JavaScript, Coding Challenges, Animations](https://www.youtube.com/user/shiffman/)
@@ -35,7 +35,7 @@
 
 <hr>
 
-**F R E E L A N C I N G**
+# F R E E L A N C I N G
 
 http://www.bradhussey.ca/
 https://harpoonapp.com/blog/category/freelancing
@@ -43,4 +43,4 @@ https://doubleyourfreelancing.com/
 
 <hr>
 
-**P R O D U C T I V I T Y, H A B I T S and F O C U S**
+# P R O D U C T I V I T Y, H A B I T S and F O C U S
