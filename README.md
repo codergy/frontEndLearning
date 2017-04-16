@@ -33,6 +33,7 @@
 - PHPAcademy: [PHP](https://www.youtube.com/user/phpacademy)
 - LevelUpTuts: [Meteor, React, Wordpress](https://www.youtube.com/user/LevelUpTuts/playlists)
 
+<hr>
 
 **F R E E L A N C I N G**
 
@@ -40,5 +41,6 @@ http://www.bradhussey.ca/
 https://harpoonapp.com/blog/category/freelancing
 https://doubleyourfreelancing.com/
 
+<hr>
 
 **P R O D U C T I V I T Y, H A B I T S and F O C U S**
