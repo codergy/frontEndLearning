@@ -4,14 +4,14 @@
 
 **Table of Contents**
 1. [Programming](https://github.com/codergy/frontEndLearning/blob/master/README.md#programming)
-   1. [HTML]
-   2. [CSS]
+   1. [HTML](https://github.com/codergy/frontEndLearning/blob/master/README.md#html)
+   2. [CSS](https://github.com/codergy/frontEndLearning/blob/master/README.md#css)
       1. Bootstrap
       2. Flexbox
       3. CSS grid
       4. Sass
-   3. [jQuery]
-   4. [Javascript]
+   3. [jQuery](https://github.com/codergy/frontEndLearning/blob/master/README.md#jquery)
+   4. [Javascript](https://github.com/codergy/frontEndLearning/blob/master/README.md#javascript)
 2. [UX/UI](https://github.com/codergy/frontEndLearning/blob/master/README.md#uxui)
 3. [Freelancing](https://github.com/codergy/frontEndLearning/blob/master/README.md#freelancing)
 4. [Productivity, Habits and Focus](https://github.com/codergy/frontEndLearning/blob/master/README.md#productivity-habits-and-focus)
@@ -22,9 +22,10 @@
 # 1. PROGRAMMING
 
 ### HTML:
+- [Awesome Html5](https://github.com/diegocard/awesome-html5)
 
 ##### Canvas
-(https://joshondesign.com/p/books/canvasdeepdive/toc.html)
+  - (https://joshondesign.com/p/books/canvasdeepdive/toc.html)
 
 ### CSS:
    1. Bootstrap
@@ -33,6 +34,7 @@
    4. Sass
 
 ### JQUERY:
+- [Awesome jQuery](https://github.com/petk/awesome-jquery)
 - [jQuery Enlightment](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 
 ### JAVASCRIPT:
