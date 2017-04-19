@@ -4,24 +4,27 @@
 
 **Table of Contents**
 1. [Programming](https://github.com/codergy/frontEndLearning/blob/master/README.md#programming)
-   1. HTML
-   2. CSS
+   1. [HTML]
+   2. [CSS]
       1. Bootstrap
       2. Flexbox
       3. CSS grid
       4. Sass
-   3. jQuery
-   4. Javascript
+   3. [jQuery]
+   4. [Javascript]
 2. [UX/UI](https://github.com/codergy/frontEndLearning/blob/master/README.md#uxui)
 3. [Freelancing](https://github.com/codergy/frontEndLearning/blob/master/README.md#freelancing)
-4. [Productivity]()
-5. [Other]()
+4. [Productivity, Habits and Focus](https://github.com/codergy/frontEndLearning/blob/master/README.md#productivity-habits-and-focus)
+5. [Other](https://github.com/codergy/frontEndLearning/blob/master/README.md#other)
 
 <hr>
 
 # 1. PROGRAMMING
 
 ### HTML:
+
+##### Canvas
+(https://joshondesign.com/p/books/canvasdeepdive/toc.html)
 
 ### CSS:
    1. Bootstrap
@@ -35,16 +38,19 @@
 ### JAVASCRIPT:
 
 #### 1. Books
-  ##### Free Books
-    - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-    - [Eloquent JavaScript](http://eloquentjavascript.net/)
-    - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
-    - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
-    - [DOM Enlightment](http://domenlightenment.com/)
-  ##### Not Free Books
-    - JavaScript: The Good Parts
-    - JavaScript: The Definitive Guide
+
+**Free Books**
+
+  - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Eloquent JavaScript](http://eloquentjavascript.net/)
+  - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+  - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
+  - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+  - [DOM Enlightment](http://domenlightenment.com/)
+    
+**Not Free Books**
+  - JavaScript: The Good Parts
+  - JavaScript: The Definitive Guide
 
 <hr>
 
@@ -75,4 +81,8 @@
 - freeCodeCamp: [JavaScript, Git, ](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - PHPAcademy: [PHP](https://www.youtube.com/user/phpacademy)
 - LevelUpTuts: [Meteor, React, Wordpress](https://www.youtube.com/user/LevelUpTuts/playlists)
+
+
+
+
 
