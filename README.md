@@ -14,30 +14,34 @@
 3. Freelancing
 4. Productivity
 
-# P R O G R A M M I N G
+<hr>
 
-**HTML:**
+# PROGRAMMING
 
-**CSS:**
+### HTML:
 
-**JQUERY:**
+### CSS:
+
+### JQUERY:
 
 
-**JAVASCRIPT:**
+### JAVASCRIPT:
 
-**1. Books**
-  * Free Books
+#### 1. Books
+  ##### Free Books
     - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     - [Eloquent JavaScript](http://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
-  * Not Free Books
+    - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+    - [DOM Enlightment](http://domenlightenment.com/)
+  ##### Not Free Books
     - JavaScript: The Good Parts
     - JavaScript: The Definitive Guide
 
-** Free resources **
+<hr>
 
-** Youtube Channels **
+# Youtube Channels
 - DevTips: [HTML, CSS, responsive design](https://www.youtube.com/user/DevTipsForDesigners)
 - LearnWebCode: [HTML, CSS, JS, jQuery, responsive design](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - The Coding Train: [JavaScript, Coding Challenges, Animations](https://www.youtube.com/user/shiffman/)
@@ -49,7 +53,11 @@
 
 <hr>
 
-# F R E E L A N C I N G
+# UX/UI
+
+<hr>
+
+# FREELANCING
 
 http://www.bradhussey.ca/
 https://harpoonapp.com/blog/category/freelancing
@@ -57,4 +65,4 @@ https://doubleyourfreelancing.com/
 
 <hr>
 
-# P R O D U C T I V I T Y, H A B I T S and F O C U S
+# PRODUCTIVITY, HABITS and FOCUS
