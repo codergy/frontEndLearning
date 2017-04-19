@@ -33,7 +33,7 @@
    4. Sass
 
 ### JQUERY:
-
+- [jQuery Enlightment](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 
 ### JAVASCRIPT:
 
