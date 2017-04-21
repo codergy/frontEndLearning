@@ -23,6 +23,7 @@
 
 ### HTML:
 - [Awesome Html5](https://github.com/diegocard/awesome-html5)
+- [Awesome SVG](https://github.com/willianjusten/awesome-svg)
 
 ##### Canvas
   - (https://joshondesign.com/p/books/canvasdeepdive/toc.html)
